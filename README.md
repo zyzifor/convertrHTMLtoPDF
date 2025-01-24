@@ -8,4 +8,4 @@ sudo apt-get install wkhtmltopdf #for linux<br>
 https://wkhtmltopdf.org/downloads.html #for Windows<br>
 
 Запуск:<br>
-python modulPDF.py ссылка<br>
+python app.py ссылка<br>
